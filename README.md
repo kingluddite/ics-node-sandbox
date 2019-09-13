@@ -4,7 +4,7 @@
 * You [need git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Recommended
-* Install VS Code
+* [Install VS Code](https://code.visualstudio.com/download)
   - Besides Vim, best free text editor on the planet
 * Install the [VS Code Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - This will make your code look pretty
@@ -28,6 +28,9 @@
 OKTA_URL=https://dev-12345.oktapreview.com
 OKTA_TOKEN=00fLBAlD-Kylo9kdjqxcZ0tOiIGXzVQbO1Qhou812
 ```
+
+## Install all dependencies
+`$ npm install`
 
 ## Resources
 * [Okta SDK org](https://github.com/okta/okta-sdk-nodejs)
