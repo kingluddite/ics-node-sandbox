@@ -1,4 +1,3 @@
-// console.log(require('dotenv').config());
 require('dotenv').config();
 const okta = require('@okta/okta-sdk-nodejs');
 
